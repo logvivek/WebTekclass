@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="188" started-at="2015-07-12T09:50:12Z" finished-at="2015-07-12T09:50:12Z">
+  <suite name="Default suite" duration-ms="196" started-at="2015-07-19T08:09:19Z" finished-at="2015-07-19T08:09:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="188" started-at="2015-07-12T09:50:12Z" finished-at="2015-07-12T09:50:12Z">
+    <test name="Default test" duration-ms="196" started-at="2015-07-19T08:09:19Z" finished-at="2015-07-19T08:09:19Z">
       <class name="com.erev.ts1.MyProject">
-        <test-method status="FAIL" signature="main([Ljava.lang.String;)[pri:0, instance:com.erev.ts1.MyProject@42f30e0a]" name="main" duration-ms="0" started-at="2015-07-12T15:20:12Z" finished-at="2015-07-12T15:20:12Z">
+        <test-method status="FAIL" signature="main([Ljava.lang.String;)[pri:0, instance:com.erev.ts1.MyProject@42f30e0a]" name="main" duration-ms="0" started-at="2015-07-19T13:39:19Z" finished-at="2015-07-19T13:39:19Z">
           <exception class="org.testng.TestNGException">
             <message>
               <![CDATA[
